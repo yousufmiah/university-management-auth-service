@@ -63,3 +63,4 @@ export { logger, errorLogger }
 // logs / winstone
 // sucesses/success.log
 // errors/error.log
+// yarn add winston-daily-rotate-file
