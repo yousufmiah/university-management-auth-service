@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\level2-pHero-typeScript\\Mission-3-Be-A-NoSQL-Backend-Braniac\\university-management-auth-service\\logs\\winston\\errors\\.bf133063aeea32ef09895e470a88bb7c1974bf46-audit.json",
+    "files": [
+        {
+            "date": 1686308652383,
+            "name": "F:\\level2-pHero-typeScript\\Mission-3-Be-A-NoSQL-Backend-Braniac\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-17-error.log",
+            "hash": "41717fa38c42c09379393203d13e42944fb9a0c537e73f51b0fb5dd155612744"
+        },
+        {
+            "date": 1686313571673,
+            "name": "F:\\level2-pHero-typeScript\\Mission-3-Be-A-NoSQL-Backend-Braniac\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-18-error.log",
+            "hash": "3cfb1c89e59355c534f572d5463694d35ab8136cb4ec71c2cafbd8f5f3cfe545"
+        },
+        {
+            "date": 1686315904241,
+            "name": "F:\\level2-pHero-typeScript\\Mission-3-Be-A-NoSQL-Backend-Braniac\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-19-error.log",
+            "hash": "9a31a8066c5781a8c50c853b032b2f1cc68226ece06670bf6951108e9c90b59d"
+        },
+        {
+            "date": 1686319213990,
+            "name": "F:\\level2-pHero-typeScript\\Mission-3-Be-A-NoSQL-Backend-Braniac\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-20-error.log",
+            "hash": "38103a02509fe03e0fc56fa59f0e52c5d42089e0f15443f40bfdc72aefb54259"
+        }
+    ],
+    "hashType": "sha256"
+}
